@@ -1,0 +1,11 @@
+C:\Users\mhmtm\Desktop\RenkKodları\RenkKodları\bin\Debug\RenkKodları.exe.config
+C:\Users\mhmtm\Desktop\RenkKodları\RenkKodları\bin\Debug\RenkKodları.exe
+C:\Users\mhmtm\Desktop\RenkKodları\RenkKodları\bin\Debug\RenkKodları.pdb
+C:\Users\mhmtm\Desktop\RenkKodları\RenkKodları\obj\Debug\RenkKodları.csproj.AssemblyReference.cache
+C:\Users\mhmtm\Desktop\RenkKodları\RenkKodları\obj\Debug\RenkKodları.csproj.SuggestedBindingRedirects.cache
+C:\Users\mhmtm\Desktop\RenkKodları\RenkKodları\obj\Debug\RenkKodları.Form1.resources
+C:\Users\mhmtm\Desktop\RenkKodları\RenkKodları\obj\Debug\RenkKodları.Properties.Resources.resources
+C:\Users\mhmtm\Desktop\RenkKodları\RenkKodları\obj\Debug\RenkKodları.csproj.GenerateResource.cache
+C:\Users\mhmtm\Desktop\RenkKodları\RenkKodları\obj\Debug\RenkKodları.csproj.CoreCompileInputs.cache
+C:\Users\mhmtm\Desktop\RenkKodları\RenkKodları\obj\Debug\RenkKodları.exe
+C:\Users\mhmtm\Desktop\RenkKodları\RenkKodları\obj\Debug\RenkKodları.pdb
